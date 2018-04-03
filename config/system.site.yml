@@ -1,0 +1,14 @@
+uuid: 10868a8f-95f2-41b8-8294-92eac1732471
+name: biostat20
+mail: aglamb@uw.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
